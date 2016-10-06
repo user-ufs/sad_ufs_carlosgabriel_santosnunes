@@ -1,0 +1,28 @@
+nu_notaFiscal;nu_serie;cd_categoria;sd_categoria;nu_material;ds_material;un_medida;nu_quantidade;vl_total
+ 2615082; 1;A1;Cancelamento entrada (A)                ; 1608419;FUNDO PRATO KARSTEN FORTUNATA 30X40;CX; 1,0; 112,41
+ 2612839; 1;A1;Cancelamento entrada (A)                ; 1448130002;LOCAO DOVE CR NUTR 400ML, INTENSIVA;CX; 1,0; 128,39
+ 370784; 1;A1;Cancelamento entrada (A)                ; 1610226003;CJ CALCINHA BARBIE KF 00280, 1110/M;UN; 1,0; 34,9
+ 174796; 1;A1;Cancelamento entrada (A)                ; 1611213004;TOALHA KARSTEN ROSTO KALAH, ALG 60100;UN; 1,0; 6,9
+ 2665960; 1;A1;Cancelamento entrada (A)                ; 1614674002;CONDIC TRESEMME SELAG CAP 400ML, QUIM;CX; 1,0; 123,18
+ 135519; 1;A1;Cancelamento entrada (A)                ; 1615384008;SUTIA DILADY FIRMADOR 312172, 48, CAC;UN; 1,0; 44,89
+ 29458; 1;A1;Cancelamento entrada (A)                ; 1618908003;FRALDA MAMYPOKO CALCA MEGA, XG C/32;UN; 1,0; 42,9
+ 61419; 1;A1;Cancelamento entrada (A)                ; 1621600003;FRALDA MAMYPOKO SUPER SECA MEGA, G C/42;UN; 1,0; 37,9
+ 2859895; 1;A1;Cancelamento entrada (A)                ; 1622608001;DESOD NIVEA ROLLON 50ML C/2 DESC, IN CLE;CX; 1,0; 43,66
+ 2859895; 1;A1;Cancelamento entrada (A)                ; 1622608002;DESOD NIVEA ROLLON 50ML C/2 DESC, IN POW;CX; 1,0; 43,66
+ 2859895; 1;A1;Cancelamento entrada (A)                ; 1622609001;DESOD NIVEA ROLLON 50ML C/2 DESC, D COMF;CX; 1,0; 43,66
+ 35283; 1;A1;Cancelamento entrada (A)                ; 1627170005;VARIANTE ELIMINADA, MIGROU P/ 1631678001;CX; 1,0; 79,23
+ 35283; 1;A1;Cancelamento entrada (A)                ; 1627170006;VARIANTE ELIMINADA, MIGROU P/ 1631678002;CX; 1,0; 79,23
+ 20408; 1;A1;Cancelamento entrada (A)                ; 1628563001;CANECA UZ PLASTICO CAP PL 300ML, VERM;CX; 1,0; 53,2
+ 20408; 1;A1;Cancelamento entrada (A)                ; 1628563003;CANECA UZ PLASTICO CAP PL 300ML, PRETO;CX; 1,0; 53,2
+ 20408; 1;A1;Cancelamento entrada (A)                ; 1628564001;CUMBUCA UZ PLASTICO 500ML, VERMELHO;CX; 1,0; 29,2
+ 20408; 1;A1;Cancelamento entrada (A)                ; 1628564002;CUMBUCA UZ PLASTICO 500ML, BRANCO;CX; 1,0; 29,2
+ 20408; 1;A1;Cancelamento entrada (A)                ; 1628565002;SALEIRO UZ PLASTICO 500ML, BRANCO;CX; 1,0; 37,3
+ 20408; 1;A1;Cancelamento entrada (A)                ; 1628567002;PORTA BOLO UZ ACRILICO PLUS, BRANCO;CX; 1,0; 99,18
+ 20408; 1;A1;Cancelamento entrada (A)                ; 1628567003;PORTA BOLO UZ ACRILICO PLUS, PRETO;CX; 1,0; 99,18
+ 136104; 1;A1;Cancelamento entrada (A)                ; 1629039001;IOG CORPUS GREGO 120G, FRUTAS VERMELHAS;UN; 2,0; 5,9
+ 136104; 1;A1;Cancelamento entrada (A)                ; 1629039002;IOG CORPUS GREGO 120G, MARACUJA;UN; 1,0; 2,95
+ 137802; 1;A1;Cancelamento entrada (A)                ; 1629914002;CUECA ZORBA BOXER EXTREME NI S/C PTO, M;UN; 2,0; 51,8
+ 3100534; 1;A1;Cancelamento entrada (A)                ; 1630562003;BARRA CEREAL KOBBER LIGHT 75G, CAST/CHOC;CX; 1,0; 68,71
+ 155710; 1;A1;Cancelamento entrada (A)                ; 1637737002;LEITE FERM ACTIVIA NAT S/LAC 100G, S DES;UN; 1,0; 2,19
+ 3197470; 1;A1;Cancelamento entrada (A)                ; 1638563001;LIMP BRILHANTE MULTI 500ML, LAV/EUC;CX; 1,0; 32,63
+ 217235; 1;A1;Cancelamento entrada (A)                ; 1640684001;SHAMPOO AUSSIE 400ML, HIDRATACAO;UN; 1,0; 44,99
